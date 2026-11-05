@@ -1,0 +1,5 @@
+# 让 GitHub 语言统计忽略数据/讲义类文件，仓库主页不再显示 "Jupyter Notebook"
+*.ipynb linguist-documentation
+*.csv linguist-documentation
+*.txt linguist-documentation
+*.zip linguist-documentation
